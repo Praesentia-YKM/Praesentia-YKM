@@ -1,7 +1,7 @@
 # Praesential-YKM
 <div>
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Praesentia-YKM's%20Profile&fontSize=70&fontColor=#00D8FF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeauto&height=220&section=header&text=Praesentia-YKM's%20Profile&fontSize=70&fontColor=#00D8FF)
 
   <h2>😄I'm currently study Java Web Programming</h2>
 </div>
