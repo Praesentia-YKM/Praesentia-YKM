@@ -32,9 +32,9 @@
 </div>
 <p>  
   
+#  🏆Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=Praesentia-YKM)](https://github.com/ryo-ma/github-profile-trophy)
 
-#  🏆Stats
 ![Praesentia-YKM's GitHub stats](https://github-readme-stats.vercel.app/api?username=Praesentia-YKM&show_icons=true&theme=highcontrast)
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Praesentia-YKM&layout=compact&theme=tokyonight)
