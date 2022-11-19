@@ -29,6 +29,11 @@
 # :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yangkwonmo0916@gmail.com)](mailto:yangkwonmo0916@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:ykm8864@naver.com)](mailto:ykm8864@naver.com)
+<a href="https://www.instagram.com/kwon._.moya/">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/kwon._.moya/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 </div>
 <p>  
   
