@@ -12,8 +12,6 @@
 ![Praesentia-YKM's GitHub stats](https://github-readme-stats.vercel.app/api?username=Praesentia-YKM&show_icons=true&theme=highcontrast)
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Praesentia-YKM&layout=compact&theme=tokyonight)
-
-![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=Praesentia-YKM)
   
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Praesentia-YKM)](https://solved.ac/Praesentia-YKM/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ykm09160916)](https://solved.ac/ykm09160916/)
 </p>
