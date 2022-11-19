@@ -5,18 +5,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeauto&height=220&section=header&text=Praesentia-YKM's%20Profile&fontSize=70&fontColor=#00D8FF)
 
   <h2>😄I'm currently study Java Web Programming</h2>
-</div>
-<p>  
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=Praesentia-YKM)](https://github.com/ryo-ma/github-profile-trophy)
-
-![Praesentia-YKM's GitHub stats](https://github-readme-stats.vercel.app/api?username=Praesentia-YKM&show_icons=true&theme=highcontrast)
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Praesentia-YKM&layout=compact&theme=tokyonight)
-  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ykm09160916)](https://solved.ac/ykm09160916/)
-  
-# 💪Skills
+  # 💪Skills
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
@@ -37,6 +27,17 @@
 
  
 # :mailbox_with_mail: Contacts
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yangkwonmo0916@gmail.com)](mailto:kimsh1691@gmail.com)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:ykm8864@naver.com)](mailto:rlatngus1691@naver.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yangkwonmo0916@gmail.com)](mailto:yangkwonmo0916@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:ykm8864@naver.com)](mailto:ykm8864@naver.com)
+</div>
+<p>  
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Praesentia-YKM)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Praesentia-YKM's GitHub stats](https://github-readme-stats.vercel.app/api?username=Praesentia-YKM&show_icons=true&theme=highcontrast)
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Praesentia-YKM&layout=compact&theme=tokyonight)
+  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ykm09160916)](https://solved.ac/ykm09160916/)
+  
 </p>
