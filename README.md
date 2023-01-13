@@ -26,6 +26,10 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
 
   # 🤔MindSet
+  <h3>💭후회라는 감정은 그때의 기억을 잃고 그때 그 상황의 나로 돌아갔을때 그때의 나의 행동과 다른 더 좋은쪽의 행동을 할 자신이 있을떄 후회를 한다고 생각합니다. 그렇다면 그때와 똑같은 행동을 할 거 같을 경우는 뭘까요? 그건 바로 아쉬움이라는 감정이라고 생각합니다. 아쉬움을 남을 수 있습니다. 본인 스스로의 행동에 절대 후회가 없이 살겁니다.</h3>
+  
+  
+  
   
 # :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yangkwonmo0916@gmail.com)](mailto:yangkwonmo0916@gmail.com)
