@@ -5,6 +5,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeauto&height=220&section=header&text=Praesentia-YKM's%20Profile&fontSize=70&fontColor=#00D8FF)
 
   <h2>😄I'm currently study Java Web Programming</h2>
+  <h2>👊Love developing & Weight Training & Me</h2>
   
   # 💪Skills
 ### Platforms & Languages
