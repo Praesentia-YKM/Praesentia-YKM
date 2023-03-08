@@ -7,7 +7,7 @@
 <div>
   
 
-  <h2>😄I'm currently study Java Web Programming</h2>
+  <h2>🔭 I’m currently working on Java Web Backend Programming</h2>
   <h2>👊Love developing & Weight Training & Me</h2>
   
   # 💪Skills
