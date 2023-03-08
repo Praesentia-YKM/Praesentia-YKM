@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?animation=fadeIn&text=Praesentia-YKM World!👋&fontColor=FEF1E6&fontSize=100)
-
+![header](https://capsule-render.vercel.app/api?animation=fadeIn&text=yulotts'Space👋&fontColor=FEF1E6&fontSize=100)
 
 
 
@@ -7,7 +6,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falstjs1207&count_bg=%2379C83D&title_bg=%23555555&icon=codeigniter.svg&icon_color=%23F70000&title=Hello+World&edge_flat=false)](https://hits.seeyoufarm.com)
 <div>
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeauto&height=220&section=header&text=Praesentia-YKM's%20Profile&fontSize=70&fontColor=#00D8FF)
 
   <h2>😄I'm currently study Java Web Programming</h2>
   <h2>👊Love developing & Weight Training & Me</h2>
