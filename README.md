@@ -8,7 +8,9 @@
   
 
   <h2>🔭 I’m currently working on Java Web Backend Programming</h2>
+  <h2>🌱 I’m currently SpringMVC, JPA , Spring JPA </h2>
   <h2>👊Love developing & Weight Training & Me</h2>
+  <h2> 📫 How to reach me: by Email( ykm8864@naver.com )</h2>
   
   # 💪Skills
 ### Platforms & Languages
