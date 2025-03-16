@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?animation=fadeIn&text=Praesentia-YKM👋&fontColor=FEF1E6&fontSize=100)
-
-
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Praesentia-YKM👋)
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falstjs1207&count_bg=%2379C83D&title_bg=%23555555&icon=codeigniter.svg&icon_color=%23F70000&title=Hello+World&edge_flat=false)](https://hits.seeyoufarm.com)
